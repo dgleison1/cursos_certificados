@@ -1,4 +1,9 @@
+
 # 🎓 Cursos & Certificados
+
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
+![ITIL v4](https://img.shields.io/badge/Certificado-ITIL%20v4-blue)
+![ISO27002](https://img.shields.io/badge/Certificado-ISO%2FIEC%2027002-orange)
 
 Repositório onde compartilho meus **cursos e certificados concluídos** nas áreas de **Tecnologia, Segurança da Informação, Cloud e Governança de TI**.
 
@@ -13,17 +18,18 @@ Repositório onde compartilho meus **cursos e certificados concluídos** nas ár
 
 ---
 
-## 🏆 Destaques
-- Certificado em **ISO/IEC 27002**
-- Certificado em **ITIL v4**
-- Experiência sólida em **Kubernetes e Infraestrutura Híbrida**
+## 📜 Índice de Certificados
+- [Cloud & Infraestrutura](./Cloud-Infrastrutura)
+- [Segurança da Informação](./Seguranca)
+- [Governança & Compliance](./Governanca)
+- [DevOps e Automação](./DevOps)
+- [Outros](./Outros)
 
 ---
 
 ## 🚀 Como usar
-Você pode:
-1. Navegar pelas pastas
-2. Baixar arquivos diretamente
+1. Navegar pelas pastas  
+2. Baixar arquivos diretamente  
 3. Usar como referência para montar o seu próprio portfólio
 
 ---
