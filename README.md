@@ -22,7 +22,7 @@ Repositório onde compartilho meus **cursos e certificados concluídos** nas ár
 - [Segurança da Informação](./Seguranca)
 - [Governança & Compliance](./Governanca)
 - [LGPD](./LGPD)
-- [Windows Server](./Windows Sever)
+- [Windows Server](./Windows_Server)
 
 ---
 
