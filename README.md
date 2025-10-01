@@ -1,4 +1,3 @@
-
 # 🎓 Cursos & Certificados
 
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
@@ -22,7 +21,7 @@ Repositório onde compartilho meus **cursos e certificados concluídos** nas ár
 - [Cloud & Infraestrutura](./Cloud-Infrastrutura)
 - [Segurança da Informação](./Seguranca)
 - [Governança & Compliance](./Governanca)
-- [DevOps e Automação](./DevOps)
+- [LGPD](./LGPD)
 - [Outros](./Outros)
 
 ---
