@@ -36,4 +36,4 @@ Repositório onde compartilho meus **cursos e certificados concluídos** nas ár
 ## 📌 Sobre mim
 Profissional de Infraestrutura de TI e Segurança da Informação, com experiência em ambientes híbridos e corporativos.
 
-[🔗 Conecte-se comigo no LinkedIn](https://linkedin.com/in/seu-perfil)
+[🔗 Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/dgleison/)
