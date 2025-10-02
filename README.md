@@ -8,15 +8,6 @@ Repositório onde compartilho meus **cursos e certificados concluídos** nas ár
 
 ---
 
-## 📂 Estrutura
-- **Cloud & Infraestrutura**
-- **Segurança da Informação**
-- **Governança & Compliance**
-- **DevOps e Automação**
-- **Outros**
-
----
-
 ## 📜 Índice de Certificados
 - [Cloud & Infraestrutura](./Cloud-Infrastrutura)
 - [Segurança da Informação](./Seguranca)
