@@ -4,7 +4,9 @@
 ![ITIL v4](https://img.shields.io/badge/Certificado-ITIL%20v4-blue)
 ![ISO27002](https://img.shields.io/badge/Certificado-ISO%2FIEC%2027002-orange)
 
-Repositório onde compartilho meus **cursos e certificados concluídos** nas áreas de **Tecnologia, Segurança da Informação, Cloud e Governança de TI**.
+
+Repositório onde compartilho meus **cursos e certificados concluídos** nas áreas de **Tecnologia, Segurança da Informação, Cl>
+
 
 ---
 
