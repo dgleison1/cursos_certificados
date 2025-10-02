@@ -16,6 +16,7 @@ Repositório onde compartilho meus **cursos e certificados concluídos** nas ár
 - [Governança & Compliance](./Governanca)
 - [LGPD](./LGPD)
 - [Windows Server](./Windows_Server)
+- [Virtualização](./Virtualização)
 
 ---
 
